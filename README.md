@@ -1,2 +1,2 @@
 # SDN
-SDN related school work
+DDoS blocking scheme related files (mininet topo, controller, etc)
